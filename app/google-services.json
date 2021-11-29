@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523554241295",
+    "project_id": "chattingapplication-eb2f0",
+    "storage_bucket": "chattingapplication-eb2f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523554241295:android:cada1e16efd2579932dc7a",
+        "android_client_info": {
+          "package_name": "com.tonni.chattingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523554241295-i54ej755gvm50qh3fe958fnvpnq2tvr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSYiQ7ah0aCG9NJoS9ZmYun9u7-D1uTxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523554241295-i54ej755gvm50qh3fe958fnvpnq2tvr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
